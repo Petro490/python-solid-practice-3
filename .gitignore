@@ -1,0 +1,16 @@
+# Кэш интерпретатора Python
+__pycache__/
+*.py[cod]
+
+# Виртуальные окружения
+.venv/
+venv/
+
+# Служебные файлы IDE и ОС
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# Временный файл, который создаётся при демонстрации задачи 1
+journal_demo.txt
